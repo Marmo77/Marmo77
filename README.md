@@ -36,8 +36,10 @@ Still figuring out which is my “main quest,” but here’s my skill tree so f
 - **Idle Clicker Game:**  
   - [Idle Clicker – React & TypeScript](https://github.com/Marmo77/Idle_Clicker-React_TypeScript)
     (Rn I already have backed into my old project that i found on my pc)
-  **Car Mechanic Website 🪛🚗**
-    - This is what I'm working on rn -> [Car Mechanic Website](https://github.com/Marmo77/carservice-website)
+  
+**Car Mechanic Website 🪛🚗**
+  - This is what I'm working on rn -> [Car Mechanic Website](https://github.com/Marmo77/carservice-website)
+    
 - **Dreams:**  
   - Building my own portfolio website (eventually one will *not* vanish into my downloads folder!)
   - Finding an internship using my new “stable” skills
