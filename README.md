@@ -37,7 +37,12 @@ Still figuring out which is my “main quest,” but here’s my skill tree so f
 - [Car Mechanic Website](https://github.com/Marmo77/carservice-website)
   This is fully responisive React website for a Car mechanic service. Not finished yet, but I am constantly adding new things to make it fully)
 
-***NEW* Restaurant Menu Panel 🧑‍🍳🍳🔥***
+***NEW Gym Workout Exercises 💪📶***
+- [Gym Exercise Website](https://www.google.com)
+  Website for gym members, based on their advanced level and what they prioritize it suggest exercise for them.
+
+
+***soon(not started yet)* Restaurant Menu Panel 🧑‍🍳🍳🔥***
 - [Restaurant Menu Panel](https://google.com)
   This is a fully functional and working menu like are in restaurant panels/tablets to adding/deleting dishes, tips and More. 👉 For now its only plan to start it soon...
 
