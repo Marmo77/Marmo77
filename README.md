@@ -8,6 +8,7 @@
 <br/>
 - *repo:* [repo](https://github.com/Marmo77/Car-Dealer_Website)
 - *Live Site preview:* [Website](https://car-dealer-website-nine.vercel.app/)
-[LightHouse-Performance](https://github.com/Marmo77/Car-Dealer_Website/blob/main/public/lighthouse.jpg)
+<br/>
+![lightHouse_Performance](https://github.com/Marmo77/Car-Dealer_Website/blob/main/public/lighthouse.jpg)
 
 :D 
