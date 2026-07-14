@@ -14,7 +14,7 @@
   ============================================================
 -->
 
-<div align="center">
+<div align="left">
 
 # Hey, I'm Alex 👋
 
@@ -24,13 +24,17 @@ I design and build real, working software — from marketing sites to a
 database-backed admin dashboard with authentication. Self-taught, and
 starting university this October to study IT.
 
+<div align="center">
 <br/>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-37E8AC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C1310)](https://your-portfolio-url.vercel.app)</br><!-- TODO: PORTFOLIO_URL -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alexgoodman.dev-37E8AC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C1310)](https://your-portfolio-url.vercel.app) <!-- TODO: PORTFOLIO_URL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1310)](https://linkedin.com/in/your-linkedin) <!-- TODO: LINKEDIN_URL -->
 [![Resume](https://img.shields.io/badge/Resume-Coming_soon-8FA39B?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0C1310)](#) <!-- TODO: RESUME_URL -->
-[![Email](https://img.shields.io/badge/Email-Say_hi-37E8AC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C1310)](mailto:hello@alexgoodman.dev) <!-- TODO: EMAIL -->
+[![Email](https://img.shields.io/badge/Email-Say_hi-37E8AC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C1310)](mailto:aleksydobrodziej@gmail.com)
 
+
+</div>
 </div>
 
 <br/>
@@ -42,7 +46,8 @@ starting university this October to study IT.
 - 🏆 Selected for **Team Poland — MOS 2026**, representing Poland at the Microsoft Office Specialist World Championship (Excel category)
 - 📜 Passed Poland's national programming certification exams (**INF.03**, **INF.04**), plus 5× Excel Expert certifications
 - 🌍 One-month IT internship in **Rimini, Italy** under the Europass mobility program
-- 🛠️ Run a small web agency, **[AD.digital](https://addigital.vercel.app/)**, building sites for local businesses
+- 🛠️ Run a small web agency, **[ADdigital](https://addigital.vercel.app/)**, building sites for local businesses
+- 💻 1,150+ GitHub contributions in the last year
 - 📈 Measuring progress in commits and shipped features rather than job titles — proof of work, not a résumé
 
 <br/>
@@ -68,7 +73,7 @@ starting university this October to study IT.
       <p><em>Live</em></p>
       <p>The marketing site for my own web agency — built for speed and conversion, with a portfolio grid, animated hero, and a quote-request flow for local businesses.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
@@ -81,7 +86,7 @@ starting university this October to study IT.
       <p><em>Live</em></p>
       <p>A burger gastropub concept site — menu presentation and a table-reservation flow, designed to feel local, appetizing, and easy to book from.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <a href="https://www.burgerszczecin.pl/">Live demo →</a> · <a href="https://github.com/Marmo77/Restaurant-Mockup-Portfolio">Source →</a>
@@ -91,7 +96,7 @@ starting university this October to study IT.
       <p><em>Live</em></p>
       <p>A business site mockup for a car service company — service listings, booking CTAs, and a clean, trust-building layout for a local audience.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <a href="https://nordcar-serwis.vercel.app/">Live demo →</a> · <a href="https://github.com/Marmo77/Carservice-mockup-website">Source →</a>
@@ -137,7 +142,7 @@ building real things alongside university. I'll get back to you within a day.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-37E8AC?style=for-the-badge)](https://your-portfolio-url.vercel.app) <!-- TODO: PORTFOLIO_URL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) <!-- TODO: LINKEDIN_URL -->
-[![Email](https://img.shields.io/badge/Email-hello%40alexgoodman.dev-37E8AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@alexgoodman.dev) <!-- TODO: EMAIL -->
+[![Email](https://img.shields.io/badge/Email-aleksydobrodziej@gmail.com-37E8AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksydobrodziej@gmail.com) <!-- TODO: EMAIL -->
 
 </div>
 
