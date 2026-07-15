@@ -27,9 +27,9 @@ starting university this October to study IT.
 <div align="center">
 <br/>
   
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-37E8AC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C1310)](https://your-portfolio-url.vercel.app)</br><!-- TODO: PORTFOLIO_URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-37E8AC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C1310)](https://aleksydobrodziej.vercel.app/)</br><!-- TODO: PORTFOLIO_URL -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1310)](https://linkedin.com/in/your-linkedin) <!-- TODO: LINKEDIN_URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1310)](https://linkedin.com/in/aleksydobrodziej) <!-- TODO: LINKEDIN_URL -->
 [![Resume](https://img.shields.io/badge/Resume-Coming_soon-8FA39B?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0C1310)](#) <!-- TODO: RESUME_URL -->
 [![Email](https://img.shields.io/badge/Email-Say_hi-37E8AC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C1310)](mailto:aleksydobrodziej@gmail.com)
 
@@ -140,8 +140,8 @@ building real things alongside university. I'll get back to you within a day.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-37E8AC?style=for-the-badge)](https://your-portfolio-url.vercel.app) <!-- TODO: PORTFOLIO_URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) <!-- TODO: LINKEDIN_URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-37E8AC?style=for-the-badge)](https://aleksydobrodziej.vercel.app/) <!-- TODO: PORTFOLIO_URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white)](https://aleksydobrodziej.vercel.app/) <!-- TODO: LINKEDIN_URL -->
 [![Email](https://img.shields.io/badge/Email-aleksydobrodziej@gmail.com-37E8AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksydobrodziej@gmail.com) <!-- TODO: EMAIL -->
 
 </div>
