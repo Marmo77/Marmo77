@@ -27,7 +27,7 @@ starting university this October to study IT.
 <div align="center">
 <br/>
   
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-37E8AC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C1310)](https://aleksydobrodziej.vercel.app/)</br><!-- TODO: PORTFOLIO_URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-37E8AC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C1310)](https://aleksydobrodziej.com/)</br><!-- TODO: PORTFOLIO_URL -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1310)](https://linkedin.com/in/aleksydobrodziej) <!-- TODO: LINKEDIN_URL -->
 [![Resume](https://img.shields.io/badge/Resume-Coming_soon-8FA39B?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0C1310)](#) <!-- TODO: RESUME_URL -->
@@ -46,7 +46,7 @@ starting university this October to study IT.
 - 🏆 Selected for **Team Poland — MOS 2026**, representing Poland at the Microsoft Office Specialist World Championship (Excel category)
 - 📜 Passed Poland's national programming certification exams (**INF.03**, **INF.04**), plus 5× Excel Expert certifications
 - 🌍 One-month IT internship in **Rimini, Italy** under the Europass mobility program
-- 🛠️ Run a small web agency, **[ADdigital](https://addigital.vercel.app/)**, building sites for local businesses
+- 🛠️ Run a small web agency, **[ADdigital](https://www.addigital.pl)**, building sites for local businesses
 - 💻 1,150+ GitHub contributions in the last year
 - 📈 Measuring progress in commits and shipped features rather than job titles — proof of work, not a résumé
 
@@ -104,7 +104,7 @@ starting university this October to study IT.
   </tr>
 </table>
 
-<p align="center"><em>See the full write-ups (overview, key features, tech stack) on the <a href="https://your-portfolio-url.vercel.app/#projects">portfolio</a>. <!-- TODO: PORTFOLIO_URL --></em></p>
+<p align="center"><em>See the full write-ups (overview, key features, tech stack) on the <a href="https://aleksydobrodziej.com/#projects">portfolio</a>. <!-- TODO: PORTFOLIO_URL --></em></p>
 
 <br/>
 
@@ -140,8 +140,8 @@ building real things alongside university. I'll get back to you within a day.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-37E8AC?style=for-the-badge)](https://aleksydobrodziej.vercel.app/) <!-- TODO: PORTFOLIO_URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white)](https://aleksydobrodziej.vercel.app/) <!-- TODO: LINKEDIN_URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-37E8AC?style=for-the-badge)](https://aleksydobrodziej.com/) <!-- TODO: PORTFOLIO_URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-37E8AC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksydobrodziej/) <!-- TODO: LINKEDIN_URL -->
 [![Email](https://img.shields.io/badge/Email-aleksydobrodziej@gmail.com-37E8AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksydobrodziej@gmail.com) <!-- TODO: EMAIL -->
 
 </div>
