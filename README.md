@@ -16,9 +16,9 @@
 
 <div align="left">
 
-# Hey, I'm Alex 👋
+# Hey, I'm Aleksy 👋
 
-### Frontend-leaning developer, shipping full products.
+### Frontend developer, shipping full products.
 
 I design and build real, working software — from marketing sites to a
 database-backed admin dashboard with authentication. Self-taught, and
